@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+.footer{
+  font-size: 15px;
+  font-weight: bold;
+  background-color: #155dfc;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 70px;
+}
