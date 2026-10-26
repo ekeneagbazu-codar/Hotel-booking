@@ -4,7 +4,7 @@ export default function About() {
     <div className="bg-white">
       {/* HEADER */}
       <section className="bg-gray-900 text-white py-20 px-10 md:px-20 text-center">
-        <h1 className="text-5xl font-bold">About <span className="text-blue-400">HotelBooking</span></h1>
+        <h1 className="text-5xl font-bold">Blue-Raddison <span className="text-blue-400">HotelBooking</span></h1>
         <p className="mt-4 text-gray-300 max-w-2xl mx-auto">
           We are more than just a hotel — we are a destination for comfort, luxury, and unforgettable memories.
         </p>
@@ -38,9 +38,9 @@ export default function About() {
           </div>
         </div>
         <img
-          src="https://images.unsplash.com/photo-1551882547-b79c5d64a4e2?q=80&w=2070"
+          src="https://imgs.search.brave.com/z5zb8WyRsuXBGZrlTT5RxMzKLyBqTYJg6OU0qz92oPs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNDQv/MDE5LzIyMS9zbWFs/bC9leHF1aXNpdGUt/bHV4dXJ5LWhvdGVs/LWxvYmJ5LXdpdGgt/b3B1bGVudC1mdXJu/aXNoaW5ncy1zdHVu/bmluZy1jaGFuZGVs/aWVycy1hbmQtZWxl/Z2FudC1tYXJibGUt/Zmxvb3JzLXBob3Rv/LmpwZWc"
           alt="Hotel lobby"
-          className="rounded-2xl shadow-xl h-[450px] object-cover"
+          className="rounded-2xl shadow-xl h-[450px] object-cover transition-transform duration-500 ease-in-out hover:-translate-y-2 hover:translate-x-2 hover:scale-105"
         />
       </section>
 
