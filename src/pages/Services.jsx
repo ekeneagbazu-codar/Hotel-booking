@@ -9,7 +9,7 @@ export default function Services() {
     },
     {
       id: 2,
-      name: "Executive Suite",
+      name: "Executive Suites",
       price: "₦55,000",
       image: "https://images.unsplash.com/photo-1560448205-4d9b3e6bb6db?q=80&w=2070",
       features: ["Free WiFi", "Living Room", "Breakfast Included"]
